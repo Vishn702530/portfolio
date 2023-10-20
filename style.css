@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.career{
+    height: 650px;
+  
+}
+body{
+    background-color: lightblue;
+}
+.about{
+    height: 400px;
+}
+.projects{
+    height: 800px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar-nav a:hover{
+    color: white;
+}
